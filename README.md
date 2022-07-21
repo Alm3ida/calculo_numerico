@@ -24,7 +24,7 @@ Esse projeto calcula de forma gráfica as interações de uma integral de rieman
 
 - [Streamlit](https://streamlit.io/): Tecnologia para gerar o modelo interativo com parâmetros variáveis utilizando sliders.
 
-    ![Na imagem, uma demonstração da utilização do slider, no website gerado pelo Streamlit e verificando a quantidade de retângulos em cima da curva da função.](https://imgur.com/CSn6mCl)
+    ![Na imagem, uma demonstração da utilização do slider, no website gerado pelo Streamlit e verificando a quantidade de retângulos em cima da curva da função.](https://i.imgur.com/CSn6mCl.gif)
 
 - [Numpy](https://numpy.org/): Biblioteca de computação numérica em Python, que organiza as estruturas de dados em arrays e possibilita algumas operações com arranjos n-dimensionais.
 - [Matplotlib](https://matplotlib.org/): Biblioteca utilizada para computar graficamente os dados processados através dos arrays do Numpy.
