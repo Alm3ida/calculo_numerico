@@ -64,11 +64,14 @@ plt.bar(interval + np.diff(interval)[0] / 2,
 
 plt.plot(func_interval, vf(func_interval))
 plt.grid(alpha = 0.1)
-
+plt.xlim(-0.5, 10.5)
+plt.xticks([x for x in range (0, 11)])
 
  
-st.write(f"O valor da integral é {round(integral_sum, 4)}")
+st.write(f"A função de exemplo utilizada é")
+st.latex(r'''f(x) = -\dfrac{x^3}{100}(10-x), \quad (0\leq x \leq 10)''')
 st.pyplot(fig)
+st.write(f"O valor da integral é {round(integral_sum, 4)}")
 
 
 
