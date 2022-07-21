@@ -10,7 +10,7 @@ Esse repositório foi construído para organizar os projetos relacionados a cont
 
 ## **1. Integral de Riemann**
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge Conclusao](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
 
 
