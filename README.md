@@ -4,14 +4,11 @@ Esse repositório foi construído para organizar os projetos relacionados a cont
 
 ## **Índice de projetos:**
 
-- [Integral de Riemman](#integral-de-riemann)
+- [Integral de Riemman](#1-integral-de-riemann)
 - []
--
--
--
 
 
-## **Integral de Riemann**
+## **1. Integral de Riemann**
 
 ### 📄 **Descrição do projeto**:
 
@@ -29,6 +26,8 @@ Esse projeto calcula de forma gráfica as interações de uma integral de rieman
 - [Numpy](https://numpy.org/): Biblioteca de computação numérica em Python, que organiza as estruturas de dados em arrays e possibilita algumas operações com arranjos n-dimensionais.
 - [Matplotlib](https://matplotlib.org/): Biblioteca utilizada para computar graficamente os dados processados através dos arrays do Numpy.
 
+
+## **2.
 
 
 
