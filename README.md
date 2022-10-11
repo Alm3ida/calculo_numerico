@@ -4,14 +4,19 @@ Esse repositório foi construído para organizar os projetos relacionados a cont
 
 ## **Índice de projetos:**
 
-- [Integral de Riemman](#1-integral-de-riemann)
-- [Convolução de Sinais no Tempo Discreto (LSTI)]
+1. [Integral de Riemman](#1-integral-de-riemann)
+2. [Convolução de Sinais no Tempo Discreto (LSTI)](#2-convolução-de-sinais-no-tempo-discreto)
 
 
 ## **1. Integral de Riemann**
 
-![Badge Conclusao](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
+<div align='center'>
+    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge" alt = "Badge conclusão">
+</div>
+                                                                                                                           
+                                                                                                                           
+<!--- ![Badge Conclusao]() --> 
 
 
 ### 📄 **Descrição do projeto**:
@@ -37,9 +42,11 @@ Esse projeto calcula de forma gráfica as interações de uma integral de rieman
 - [Matplotlib](https://matplotlib.org/): Biblioteca utilizada para computar graficamente os dados processados através dos arrays do Numpy.
 
 
-## **2. Convolução de Sinais no Tempo Discreto (LSTI)**
-![Badge Conclusao](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
+## **2. Convolução de Sinais no Tempo Discreto**
 
+<div align='center'>
+    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge" alt = "Badge conclusão">
+</div>
 
 ### 📄 **Descrição do projeto**:
 
@@ -61,6 +68,8 @@ $$
 
 - [Numpy](https://numpy.org/): Biblioteca de computação numérica em Python, que organiza as estruturas de dados em arrays e possibilita algumas operações com arranjos n-dimensionais.
 - [Matplotlib](https://matplotlib.org/): Biblioteca utilizada para computar graficamente os dados processados através dos arrays do Numpy.
+
+![Imagem colorida ilustrando três gráficos. O primeiro mostra o sinal x(t), o segundo mostra o sinal h(t), e o terceiro mostra a convolução deles.](https://i.imgur.com/njzJskk.png)
 
 
 ## **3. Exemplo de Espaço Normado (Geometria do Taxista)**
