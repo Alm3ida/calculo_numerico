@@ -5,7 +5,7 @@ Esse repositório foi construído para organizar os projetos relacionados a cont
 ## **Índice de projetos:**
 
 - [Integral de Riemman](#1-integral-de-riemann)
-- []
+- [Convolução de Sinais no Tempo Discreto (LSTI)]
 
 
 ## **1. Integral de Riemann**
@@ -37,9 +37,33 @@ Esse projeto calcula de forma gráfica as interações de uma integral de rieman
 - [Matplotlib](https://matplotlib.org/): Biblioteca utilizada para computar graficamente os dados processados através dos arrays do Numpy.
 
 
+## **2. Convolução de Sinais no Tempo Discreto (LSTI)**
+![Badge Conclusao](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
 
-## **2. Exemplo de Espaço Normado (Geometria do Taxista)**
+### 📄 **Descrição do projeto**:
+
+Algoritmo que calcula a convolução numérica de dois sinais descritos por funções de sinais. O modelo matemático utilizado inverte e atrasa um sinal no tempo enquanto mantém o outro, calculando assim a expressão: 
+
+$$
+y[n] = x[n]*h[n] = \displaystyle\sum_{\tau = -\infty}^{\infty} x[\tau]h[n-\tau]
+$$
+
+### 📲 **Funcionalidades**:
+
+- `Programação Dinâmica`: O script realiza a leitura de arquivos de texto (.txt) para executar código Python. As várias funções de sinais definidas dentro do escopo analisado são produtos da utilização de um arquivo de texto formatado executado através do método `exec()`. 
+
+- `Gráficos`: Com o uso do Matplotlib, é mostrada a função de sinal $x(t)$, $h(t)$ e também a sua convolução, $y(t) = x(t) * h(t)$. Os gráficos, que representam sinais descritos, são construídos utilizando o método `stem`.
+
+
+
+### 🛠️ **Tecnologias utilizadas**:
+
+- [Numpy](https://numpy.org/): Biblioteca de computação numérica em Python, que organiza as estruturas de dados em arrays e possibilita algumas operações com arranjos n-dimensionais.
+- [Matplotlib](https://matplotlib.org/): Biblioteca utilizada para computar graficamente os dados processados através dos arrays do Numpy.
+
+
+## **3. Exemplo de Espaço Normado (Geometria do Taxista)**
 
 
 
